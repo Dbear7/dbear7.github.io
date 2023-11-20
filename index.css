@@ -1,0 +1,32 @@
+main {
+    width: 100%;
+    height: calc(100vh - 90px);
+    background-image: url(images/e605a70b487814245cd207964350997c[223].jpg);
+    background-size: 1000vh, cover;
+    background-repeat: no-repeat ;
+    background-position: botton, center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main .main-intro h1 {
+    font-size: 26px;
+    line-height: 32px;
+    background-image: url(images/e605a70b487814245cd207964350997c[223].jpg);
+    font-family: sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    
+}
+
+main .main-intro {
+    position: relative;
+    right: 20vh;
+}
+
+
+
+
+    
+
